@@ -1,0 +1,54 @@
+nav {
+    /* background-image: url('https://wallpaperaccess.com/full/1236501.jpg'); */
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1700px 1000px;
+    /* padding: 10px 100px; */
+}
+
+.nav-title {
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.dropbtn {
+    background-color: rgb(240, 112, 112);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    margin-left: 700px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: rgb(240, 112, 112);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: rgb(131, 5, 5);
+}

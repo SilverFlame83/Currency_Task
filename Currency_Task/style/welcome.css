@@ -1,0 +1,135 @@
+body {
+    background-image: url('https://nycofficesuites.com/wp-content/uploads/2010/11/Office-space-with-NYC-view.jpg');
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+}
+
+.welcome-container {
+    background-image: url('https://www.merchantstronghold.com/currency/wp-content/uploads/2017/05/usd-1.png');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.eur-welcome {
+    background-image: url('https://image.shutterstock.com/image-illustration/europe-union-flag-silk-3d-260nw-1490143472.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.aud-welcome {
+    background-image: url('https://img.pixers.pics/pho_wat(s3:700/FO/12/26/63/74/700_FO12266374_a768a92d3a3b5c6cdf41385a5176a0e3.jpg,700,467,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,417,jpg)/stickers-australische-flagge.jpg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.cad-welcome {
+    background-image: url('https://image.shutterstock.com/image-vector/national-flag-canada-paper-texture-260nw-1725850915.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.chf-welcome {
+    background-image: url('https://culturalmixology.com/wp-content/uploads/2018/07/swiss-flag-1024x569.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.nzd-welcome {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1280px-Flag_of_New_Zealand.svg.png');
+    background-repeat: no-repeat;
+    background-size: 1600px 2000px;
+}
+
+.bgn-welcome {
+    background-image: url('https://muzikercdn.com/uploads/products/3710/371095/thumb_d_gallery_base_af0f0d16.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 100px;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: #fff;
+}
+
+.cad-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(227, 9, 21);
+}
+
+.nzd-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(233, 32, 42);
+}
+
+article {
+    position: relative;
+    text-align: center;
+    color: black;
+    margin: auto;
+    background-color: rgb(186, 186, 221);
+    width: 20%;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.card {
+    min-height: 150px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 150px;
+}
+
+.cad-card {
+    position: relative;
+    text-align: center;
+    color: rgb(23, 23, 34);
+    margin: auto;
+    background-color: white;
+    width: 20%;
+    border-radius: 20px;
+    padding: 5px;
+    min-height: 150px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 150px;
+}
+
+.bgn-card {
+    position: relative;
+    text-align: center;
+    color: rgb(23, 23, 34);
+    margin: auto;
+    background-color: rgb(243, 243, 243);
+    width: 20%;
+    border-radius: 20px;
+    padding: 5px;
+    min-height: 150px;
+    float: left;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 150px;
+}
+
+.group-name {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.count {
+    /* color: chartreuse; */
+    color: crimson;
+    font-size: 20px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: normal;
+}

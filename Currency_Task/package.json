@@ -1,0 +1,20 @@
+{
+    "name": "currency",
+    "version": "1.0.0",
+    "description": "Currency Rate Single Page Application",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "lite-server"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "lit-html": "^1.4.1",
+        "page": "^1.11.6"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
